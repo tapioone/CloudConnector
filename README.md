@@ -12,4 +12,4 @@ This repository only acts as distribution channel for release artifacts. You can
 
 Visit our website if you want to learn more about [tapio CloudConnector](https://www.tapio.one/en/partner-solution).
 
-Technical documentation is available through our [Developer Portal](https://developer.tapio.one/manufacturer/cloudconnector/tapio-cloudconnector).
+Technical documentation is available through our [Developer Portal](https://developer.tapio.one/manufacturer/cloud-connector/).
